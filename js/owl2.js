@@ -1,6 +1,6 @@
 $(document)
   .ready(function () {
-    $('.owl-carousel.introduce').owlCarousel({
+  $('.owl-carousel.review').owlCarousel({
       loop: true,
       margin: 10,
       responsiveClass: true,
