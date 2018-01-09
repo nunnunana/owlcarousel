@@ -20,6 +20,7 @@ $(document)
       }
     }
   })
+  
   // responsive nav
   var responsiveNav = $('#toggle-nav');
   var navBar = $('.nav-bar');
